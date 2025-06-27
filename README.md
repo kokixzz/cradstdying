@@ -1,4 +1,4 @@
-# StudyCards - Flashcard App
+# CradStdying - Flashcard App
 
 Een eenvoudige flashcard applicatie gebouwd met React en Node.js.
 
